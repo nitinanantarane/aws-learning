@@ -1,0 +1,16 @@
+Microsoft Windows [Version 10.0.22000.978]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\WINDOWS\system32>ipconfig /flushdns
+
+Windows IP Configuration
+
+Successfully flushed the DNS Resolver Cache.
+
+C:\WINDOWS\system32>netsh winsock reset
+
+Sucessfully reset the Winsock Catalog.
+You must restart the computer in order to complete the reset.
+
+
+C:\WINDOWS\system32>

@@ -1,0 +1,3 @@
+chmod: changing permissions of ‘html’: Operation not permitted
+$ su - root
+$ chmod o+w /root
